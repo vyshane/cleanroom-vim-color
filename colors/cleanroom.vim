@@ -1,6 +1,8 @@
 "
 " Cleanroom
-"   A light, minimal Vim colour scheme that stays out of your way and gives you room to think.
+"
+" A light, minimal Vim colour scheme that stays out of your way and gives you room to think.
+" This colour scheme is meant for GUI use.
 "
 " Author:  Vy-Shane Sin Fat <shane@node.mu>
 "
