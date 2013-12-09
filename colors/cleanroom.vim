@@ -49,7 +49,7 @@ hi SpellBad      guisp=#ff7777
 hi SpellCap      guisp=#ffaaaa
 hi SpellLocal    guisp=#ffaaaa
 hi SpellRare     guisp=#ffaaaa
-hi NonText       guifg=#aaaaaa  guibg=#f8f8f8  gui=none
+hi NonText       guifg=#eeeeee  guibg=#f8f8f8  gui=none
 hi SpecialKey    guifg=#aaaaaa  guibg=#f8f8f8  gui=none
 hi Conceal       guifg=#111111  guibg=white
 
