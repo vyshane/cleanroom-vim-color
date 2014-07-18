@@ -70,7 +70,7 @@ hi Keyword       guifg=#005070  gui=none
 hi Directory     guifg=#6699dd
 hi link Function           Normal
 hi link Character          Constant
-hi link String             Constant
+hi link String             Comment
 hi link Boolean            Constant
 hi link Number             Constant
 hi link Float              Number
